@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="42px" viewBox="0 0 51 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.77648465,41.6638885 C2.16663074,37.2642411 0,31.6351424 0,25.5 C0,11.4167389 11.4167389,0 25.5,0 C39.5832611,0 51,11.4167389 51,25.5 C51,31.6351424 48.8333693,37.2642411 45.2235154,41.6638885 C41.3954749,34.7110346 33.997898,30 25.5,30 C17.002102,30 9.60452506,34.7110346 5.77648465,41.6638885 Z M25.5,27 C31.0228475,27 35.5,22.5228475 35.5,17 C35.5,11.4771525 31.0228475,7 25.5,7 C19.9771525,7 15.5,11.4771525 15.5,17 C15.5,22.5228475 19.9771525,27 25.5,27 Z" id="path-1"></path>
+    </defs>
+    <g id="New-User-Acct-Sett-'Acct-Verification-Flow'-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-Types" transform="translate(-1273.000000, -7.000000)">
+            <g id="icon-user" transform="translate(1273.000000, 7.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#283F5C" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="30px" viewBox="0 0 40 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>email-alert</title>
+    <desc>Created with Sketch.</desc>
+    <g id="New-User-Acct-Settings-Sponsor-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page" transform="translate(-1002.000000, -5540.000000)" fill="#283F5C" fill-rule="nonzero">
+            <g id="email-alert" transform="translate(1002.000000, 5540.000000)">
+                <g id="Filled_Icons">
+                    <g id="Group">
+                        <path d="M21.4525,17.0325 C21.0175,17.3425 20.51,17.5 20,17.5 C19.49,17.5 18.9825,17.345 18.5475,17.0325 L0.135,3.8825 C0.055,4.2425 0,4.6125 0,5 L0,25 C0,27.755 2.2425,30 5,30 L35,30 C37.7575,30 40,27.755 40,25 L40,5 C40,4.615 39.9475,4.2425 39.865,3.885 L21.4525,17.0325 Z" id="Path"></path>
+                        <path d="M20,11.925 L36.39,0.2175 C35.945,0.0925 35.485,0 35,0 L5,0 C4.515,0 4.055,0.0925 3.61,0.22 L20,11.925 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

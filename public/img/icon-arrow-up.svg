@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" viewBox="0 0 6 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Page-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vocabulary-main-Copy" transform="translate(-231.000000, -218.000000)" fill="#283F5C" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(10.000000, 126.500000)">
+                <g id="arrow" transform="translate(224.230769, 136.269231) rotate(-90.000000) translate(-224.230769, -136.269231) translate(179.730769, 133.269231)">
+                    <path d="M85.0000144,4.91095137 L85.0000144,0.31407476 C85.0000144,0.201502452 85.0578728,0.0986350673 85.1534175,0.0445670673 C85.2518822,-0.0194824712 85.3763591,-0.0139369327 85.4695161,0.0575990673 L88.8598068,2.34924399 C88.9508407,2.40247999 89.0047176,2.50534768 88.9996745,2.61459261 C89.0017976,2.72411445 88.9487176,2.82698214 88.8598068,2.88437722 L85.4695161,5.16853599 C85.4209468,5.20319507 85.3649468,5.22399014 85.3057591,5.23036737 C85.2508206,5.23369476 85.1969437,5.21622676 85.152356,5.18267691 C85.0568113,5.12860891 84.9989528,5.02352337 85.0000144,4.91095137 Z" id="Page-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

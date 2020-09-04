@@ -38,7 +38,7 @@
         "js-cookie": "^2.2.0",
         "laravel-echo": "^1.5.4",
         "moment": "^2.24.0",
-        "papaparse": "^5.0.0",
+        "papaparse": "^5.2.0",
         "pdfmake": "^0.1.60",
         "pusher-js": "^5.0.0",
         "s3-tree": "^2.0.0",
